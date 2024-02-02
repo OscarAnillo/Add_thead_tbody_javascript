@@ -1,0 +1,16 @@
+table {
+    border: 1px solid #000;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 100%;
+}
+thead {
+    background-color: lightblue;
+    color: #000;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+}
+td {
+    border: 1px solid #eee;
+    padding: .5em;
+}
